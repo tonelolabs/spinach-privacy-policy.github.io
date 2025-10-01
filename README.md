@@ -6,3 +6,7 @@ Spinach is a simple app by Tonelo Labs that gives you a random, delicious vegan 
 
 - iOS (App Store): [Coming soon]()
 - Android (Google Play): [Coming soon]()
+
+## Privacy Policy link
+
+https://tonelolabs.github.io/spinach-privacy-policy.github.io/
